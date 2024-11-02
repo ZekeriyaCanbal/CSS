@@ -1,0 +1,39 @@
+.goit1 {
+    color: red;
+}
+
+.goit2 {
+    font-size: 20px;
+}
+.goit1:hover {
+    background-color: red;
+    color: yellow;
+}
+
+.test h1 {
+    background-color: black;
+    color: white;
+}
+
+.test h1:hover {
+    background-color: blue;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.social-link .link {
+    color: teal;    
+}
+.social-link .link:hover {
+    color: orange;
+}
+.social-link .link:active {
+    color: red;
+}
+
+.social-link .link:focus {
+    color: blue;
+}
+div #arac li {
+    font-size: 25px;
+}
